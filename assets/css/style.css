@@ -630,7 +630,7 @@ button.gauto-theme-btn:hover {
 
 .btntoTop:before {
 	color: #fff;
-	content: "ï„‚";
+	content: "^";
 	display: inline-block;
 	font: 20px "FontAwesome";
 	vertical-align: middle;
